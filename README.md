@@ -20,6 +20,10 @@ When I improve this project, I would create an alternative version for dogs that
 
 I learned how to access the Dog CEO API to retrieve data on all available breeds and have it work in tandem with various arrays. 
 
+## Credits
+
+<a href="https://unsplash.com/photos/K5pLGYJMHKk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink"> Pug Photo by Toshi on Unsplash.com
+
 ## Other Projects
 
 **Coming Soon**
