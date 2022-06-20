@@ -1,5 +1,5 @@
 # Dog Generator
-User can select a dog breed that generates a randomized name and description for that dog.
+User can select a dog breed that generates a randomized name, image, and description for that dog.
 
 **Link to project:** https://jaclynbrothers.github.io/dog-generator/
 
