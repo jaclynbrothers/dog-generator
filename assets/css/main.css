@@ -1986,7 +1986,7 @@ input, select, textarea {
 				color: #ffffff !important;
 			}
 
-/* Form */
+Form
 
 	form {
 		margin: 0 0 2em 0;
@@ -3053,22 +3053,6 @@ input, select, textarea {
 
 		}
 
-		/* @media screen and (max-width: 736px) {
-
-			.spotlight .image {
-				padding: 0.35em;
-			}
-
-				.spotlight .image img {
-					width: 12em;
-				}
-
-		}
-
-	.spotlight .image {
-		border-color: rgba(255, 255, 255, 0.35);
-	} */
-
 /* Header */
 
 	#header {
@@ -3835,21 +3819,9 @@ input, select, textarea {
 
 /* Dog Generator */
 
-		/* html {
-			font-size: 2rem;
-			font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
-			background: linear-gradient(lightyellow, orange);
-			min-height: 100vh;
-		} */
-		/* header {
-			margin-bottom: 30px;
-			text-align: center;
-		} */
-		/* select {
-			font-size: 1.1rem;
-		} */
 		#dog-name {
 			margin: 0%;
+			font-size: 2em;
 		}
 
 		.section-container {
@@ -3872,23 +3844,16 @@ input, select, textarea {
 
 }
 
-		/* .column {
-			flex: 1;
-		} */
 		img {
 			max-width: 63vw;
 			max-height: 63vh;
 			border-radius: 10%;
 		}
+
 		span {
-			/* font-weight: bold; */
-			/* text-decoration: none; */
 			font-size: 2em;
 		}
-		/* #dog-name {
-			font-size: 2em;
-			text-decoration: none;
-		} */
+
 		#left-column {
 			text-align: center;
 		}
@@ -3903,12 +3868,10 @@ input, select, textarea {
 			padding: 1vw 0 0 0;
 			margin: 0;
 		}
-
 		.styled li {
 			padding-left: 1rem;
 			text-indent: -0.75rem;
 		}
-
 		.styled li::before {
 			content: '🐕 ';
 		}
@@ -3924,13 +3887,3 @@ input, select, textarea {
 		.styled li:nth-child(5)::before {
 			content: '🦴 ';
 		}
-
-
-		
-		/* class="column">
-		<section class="item">
-			<span>Dog Characteristics</span>
-			<ul>
-				<li id="MF">Male or Female: Male</li> {
-			text-decoration: none;
-		} */
