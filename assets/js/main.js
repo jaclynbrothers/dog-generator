@@ -219,7 +219,7 @@ const doggoInfo = {
             document.getElementById("likes").innerHTML = `Likes: ${this.likes[0]}, ${this.likes[1]}`
         },
         assignDislikes(){
-            this.likes = this.yatesShuffle(this.dislikesList).slice(0,2)
+            this.dislikes = this.yatesShuffle(this.dislikesList).slice(0,2)
             document.getElementById("dislikes").innerHTML = `Dislikes: ${this.dislikes[0]}, ${this.dislikes[1]}`
         },
         assignFunFact(){
