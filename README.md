@@ -22,7 +22,9 @@ I learned how to access the Dog CEO API to retrieve data on all available breeds
 
 ## Credits
 
-<a href="https://unsplash.com/photos/K5pLGYJMHKk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink"> Pug Photo by Toshi on Unsplash.com
+<a href="https://unsplash.com/photos/K5pLGYJMHKk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink">Pug Photo</a> by Toshi on Unsplash.com
+<br>
+Stellar Design by <a href="html5up.net">HTML5 UP</a>
 
 ## Other Projects
 
